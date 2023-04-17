@@ -10,6 +10,6 @@
 - Create Python environment\
 `pip install -r .\path_to_requirements\requirements.txt`
 
+## ✨ [Algorithm performance: Time Complexity and Big O](https://github.com/tanquangduong/master-time-complexity-big-o)
 
 ## ✨ [Data structure in Python](https://github.com/tanquangduong/master-data-structure-python.git)
-
