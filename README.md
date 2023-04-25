@@ -19,3 +19,29 @@
 ## ✨ [Sort and Search algorithms](https://github.com/tanquangduong/master-sorting-searching-python.git)
 
 ## ✨ [Divide and Conquer algorithms with Apache Spark and Python](https://github.com/tanquangduong/master-divide-conquer-apache-spark.git)
+
+## ✨ [Master greedy algorithms](https://github.com/tanquangduong/master-greedy-algorithm.git)
+
+## ✨ [Master PageRank Algorithm](https://github.com/tanquangduong/master-pagerank-algorithm.git)
+
+## ✨ [Master Linear Programming](https://github.com/tanquangduong/master-linear-programming.git)
+
+## ✨ [Master Graph Algorithm](https://github.com/tanquangduong/master-graph-algorithm.git)
+
+## ✨ [Master Unsupervised Learning](https://github.com/tanquangduong/master-unsupervised-learning.git)
+
+## ✨ [Master Supervised Learning](https://github.com/tanquangduong/master-supervised-learning.git)
+
+## ✨ [Master Natural Language Processing](https://github.com/tanquangduong/master-NLP.git)
+
+## ✨ [Master Recommendation System](https://github.com/tanquangduong/master-recommendation-system.git)
+
+## ✨ [Master data-centric algorithms](https://github.com/tanquangduong/master-data-centric-algorithms.git)
+
+## ✨ [Master Cryptography](https://github.com/tanquangduong/master-cryptography.git)
+
+## ✨ [Master Building Large Scale Algorithms](https://github.com/tanquangduong/master-large-scale-algorithms.git)
+
+## ✨ [Master ARIMA model for forcasting](https://github.com/tanquangduong/master-arima-model.git)
+
+
